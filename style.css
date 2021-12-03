@@ -1,0 +1,31 @@
+body
+{
+  background-color: burlywood;
+}
+hr
+{
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: forestgreen;
+  /* height: 2px; */
+  width: 5%;
+}
+h1,h3
+{
+color: rgb(13, 77, 19);
+}
+.main
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: red;
+}
+p{
+    color: rgb(46, 62, 204);
+}
+a:hover
+{
+    border:solid 2px black;
+    background-color: black;
+    border-radius: 15%;
+    color: tomato;
+}
